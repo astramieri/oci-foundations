@@ -2,6 +2,6 @@
 
 Note-taking repository for Oracle Cloud Infrastructure (OCI) foundations.
 
-[OCI Platform](/images/oci-platform.jpg)
+[OCI Platform](/images/oci_platform.md)
 
 [OCI Architecture](/docs/oci_architecture.md)
