@@ -1,7 +1,5 @@
 # Oracle Cloud Infrastructure Platform
 
-![OCI Platform](../images/oci_platform.jpg)
-
 **Oracle Cloud Infrastructure** building blocks:
 - Core Infrastructure
 	- Compute (Bare Metal, VM, CPUs, GPUs, HPC)
@@ -30,4 +28,6 @@
 	- Low Code (APEX)
 	- AppDev (Visual Builder Studio, GraalVM, etc.)
 	- Infrastructure as Code (Terraform, Ansible, etc.)
+
+![OCI Platform](../images/oci_platform.jpg)
 
