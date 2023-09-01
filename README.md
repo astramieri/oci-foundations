@@ -9,5 +9,6 @@ OCI Introduction
 - [Distributed Cloud](/docs/distributed_cloud.md)
 
 OCI Identity and Access Management (IAM)
+
 - [IAM Introduction](/docs/iam_introduction.md)
 - [Compartments](/docs/compartments.md)

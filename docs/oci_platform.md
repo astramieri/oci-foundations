@@ -1,6 +1,6 @@
 # Oracle Cloud Infrastructure Platform
 
-![OCI Platform](../images/oci-platform.jpg)
+![OCI Platform](../images/oci_platform.jpg)
 
 **Oracle Cloud Infrastructure** building blocks:
 - Core Infrastructure
