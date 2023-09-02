@@ -12,3 +12,4 @@ OCI Identity and Access Management (IAM)
 
 - [IAM Introduction](/docs/iam_introduction.md)
 - [Compartments](/docs/compartments.md)
+- [AuthN & AuthZ](/docs/authn_and_authz.md)
