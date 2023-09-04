@@ -41,6 +41,7 @@ Examples:
 
 ![OCI Identity Concepts](../images/oci_identity_concepts.png)
 
+![Identity & Access Management](../images/iam.png)
 
 
 
