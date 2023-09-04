@@ -12,6 +12,8 @@ A tenancy administrator is the person who creates an account and is kind of resp
 
 ## OCI Admin - Policies
 
+IAM recources do not have an aggregate resource type. You have to use them individually.
+
 	Allow group oci-admin-group to manage all-resources in tenancy
 
 	Allow group oci-admin-group to manage domains in tenancy
