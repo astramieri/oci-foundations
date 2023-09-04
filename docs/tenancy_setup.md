@@ -9,3 +9,14 @@ A tenancy administrator is the person who creates an account and is kind of resp
 3. Enforce the use of Multi-Factor Authentication (MFA)
 
 ![Tenancy Seup](../images/tenancy_setup.png)
+
+## OCI Admin - Policies
+
+	Allow group oci-admin-group to manage all-resources in tenancy
+
+	Allow group oci-admin-group to manage domains in tenancy
+	Allow group oci-admin-group to manage users in tenancy
+	Allow group oci-admin-group to manage groups in tenancy
+	Allow group oci-admin-group to manage dynamic-groups in tenancy
+	Allow group oci-admin-group to manage policies in tenancy
+	Allow group oci-admin-group to manage compartments in tenancy
