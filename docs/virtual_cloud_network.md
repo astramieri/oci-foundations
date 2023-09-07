@@ -20,6 +20,3 @@ What different mechanisms exist inside a VCN ?
 ![Communication Internet](../images/vcn_internet.png)
 
 ![Communication On-Premises](../images/vcn_on_premises.png)
-
-
-
