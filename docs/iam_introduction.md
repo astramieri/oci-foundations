@@ -1,6 +1,6 @@
 # Oracle Cloud Infrastructure IAM
 
-IAM stands for **Identity and Access Management service**.** 
+IAM stands for **Identity and Access Management service**.
 
 It's also sometimes referred to as:
 - **Fine-Grained Access Control**
@@ -9,6 +9,8 @@ It's also sometimes referred to as:
 There are two key aspects to this service:
 - **Authentication (AuthN)**: has to deal with identity (who someone is)
 - **Authorization (AuthZ)**: has to deal with permission (what someone is allowed to do)
+
+IAM in OCI consists of Principals, Policies, Federation, and a few other components.
 
 ## Identity Domains
 
