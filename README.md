@@ -18,3 +18,4 @@ OCI Identity and Access Management (IAM)
 OCI Networking
 
 - [Virtual Cloud Network](/docs/virtual_cloud_network.md)
+- [VCN Routing](/docs/vcn_routing.md)
