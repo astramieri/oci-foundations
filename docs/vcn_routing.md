@@ -6,7 +6,11 @@ Route tables consist of a set of route rules. Each rule specifies a destination 
 
 One thing to keep in mind is traffic within the VCN subnet is automatically handled by the VCN local routing. There's no entry in a route table needed for routing that data between the public subnet and the private subnet.
 
-## Peering
+When you create a VCN, a default route table, security list, and DHCP options are created automatically, but a Local Peering Gateway (LPG) is not created by default. LPGs are used to connect two VCNs in the same region.
+
+## VCN Peering
+
+VCN peering is not a VPN-based connection; instead, it is a networking connection between two VCNs that enables traffic routing between the VCNs using private IP addresses. Peer VCNs must not have overlapping CIDRs. VCNs can be peered in the same region or different regions through a DRG.
 
 If you have multiple networks, how do they talk to each other? 
 

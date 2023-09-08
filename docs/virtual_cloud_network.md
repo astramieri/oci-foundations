@@ -2,6 +2,8 @@
 
 A **Virtual Cloud Network** (VCN) is a private software defined network in Oracle Cloud. It's used for secure communication. It lives in an OCI region.
 
+A VCN is a virtual, private network that you set up in Oracle data centers in a single OCI region. It resembles a traditional network, with firewall rules and specific types of communication gateways that you can choose to use. A VCN spans all the availability domains in the region.
+
 ## VCN Address Space
 
 VCN has an **address space** (IP addressing range). You take that range and break it down into smaller networks which are called *subnetworks*. And these subnetworks are where you would instantiate your compute instances.
