@@ -2,23 +2,23 @@
 
 A **Load Balancer** allows you to achieve *high availability* and *high scalability*. They are also referred to as **Reverse Proxies**.
 
-## HTTP/S (Layer 7) Load Balancer
+## HTTP/S (Layer 7) Load Balancer 
 
-The first type of Load Balancer in OCI is a **Layer 7 (HTTP/S) Load Balancer**. Layer 7 basically means it understands HTTP and HTTPS. That's the OSI model.
+The first type of Load Balancer in OCI is a **HTTP/S (Layer 7) Load Balancer**. Layer 7 basically means it understands HTTP and HTTPS. That's the OSI model.
 
-A Load Balancer comes in two different shapes:
+The Load Balancer comes in two different shapes:
 - **flexible shape**: you define the minimum and the maximum and you define the range.
 - **dynamic shape**: you predefine the shapes (micro, small, medium, large). You don't have to warm up your Load Balancer. If the traffic comes to that particular shape, the Load Balancer automatically scales.
 
-A Load Balancer can be:
+The Load Balancer can be:
 - **public**: it is available on the web.
 - **private**: it means your multiple tiers, like a web tier, can talk to your database tier and balance the traffic between them, but both tiers don't have to be public.
 
 ![Load Balancer](../images/http_load_balancer.png)
 
-## Network Load Balancer
+## Network (Layer 4) Load Balancer 
 
-The second type of Load Balancer in OCI is called **Network Load Balancer**. And as the name specify, Network Load Balancer operates at layer 4, layer 3, and layer 4 so it understands TCP, UDP, also supports ICMP.
+The second type of Load Balancer in OCI is called **Network (Layer 4) Load Balancer**. And as the name specify, Network Load Balancer operates at layer 4, layer 3, and layer 4 so it understands TCP, UDP, also supports ICMP.
 
 Like HTTP Load Balancer, it has both public and a private option.
 
