@@ -20,3 +20,4 @@ OCI Networking
 - [Virtual Cloud Network](/docs/virtual_cloud_network.md)
 - [VCN Routing](/docs/vcn_routing.md)
 - [VCN Security](/docs/vcn_security.md)
+- [Load Balancer](/docs/load_balancer.md)
