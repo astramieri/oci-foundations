@@ -25,4 +25,5 @@ Networking
 Compute
 
 - [Compute Introduction](/docs/compute_introduction.md)
+- [Instance Basics](/docs/instance_basics.md)
 
