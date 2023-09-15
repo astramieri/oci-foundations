@@ -26,4 +26,4 @@ Compute
 
 - [Compute Introduction](/docs/compute_introduction.md)
 - [Instance Basics](/docs/instance_basics.md)
-
+- [Cloud Shell](/docs/cloud_shell.md)
