@@ -10,7 +10,11 @@ SSH protocol, also referred to as **Secure SHell**, is a method for secure remot
     (shell)$ cd .ssh
     (shell)$ ssh-keygen -b 2048 -t rsa -f mykeyname
 
+## Image and Shape
 
+Shape is basically a (virtual hardware) template which determines number of CPUs, amount of memory, other resources. 
+
+Image is basically an operating system, which runs on top of that shape.
 
 
 
