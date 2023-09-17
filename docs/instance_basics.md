@@ -2,6 +2,8 @@
 
 An instance is a compute host and it has several dependencies.
 
+Block storage is the type of storage associated with instances in the OCI Compute service. It provides low-latency, high-performance storage volumes that can be attached to instances to store data and applications.
+
 ![Instance Basics](../images/instance_basics.png)
 
 ## Live Migrate
