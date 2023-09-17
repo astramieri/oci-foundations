@@ -30,3 +30,4 @@ Compute
 - [Scaling](/docs/scaling.md)
 - [Container Engine for Kubernetes (OKE)](/docs/oke.md)
 - [Container Instances](/docs/container_instances.md)
+- [Oracle Functions](/docs/oracle_functions.md)
