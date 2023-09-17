@@ -28,5 +28,5 @@ Compute
 - [Instance Basics](/docs/instance_basics.md)
 - [Cloud Shell](/docs/cloud_shell.md)
 - [Scaling](/docs/scaling.md)
-- [OKE](/docs/oke.md)
+- [Container Engine for Kubernetes (OKE)](/docs/oke.md)
 - [Container Instances](/docs/container_instances.md)
