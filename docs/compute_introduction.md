@@ -15,8 +15,10 @@ The three defining characteristics of this service include:
 Flexible Shapes means you have flexibility in choosing your own configuration. 
 
 You could choose:
-- OCPUs
+- Oracle Cloud Processor Units (OCPUs)
 - Memory
+
+NOTE. The number of virtual NICs and physical NICs are not customizable parameters for flexible shape compute instances.
 
 In the cloud, there's this notion of **T-shirt sizing**. So you have a small, medium, large kind of shapes, and your application has to fit those shapes. And sometimes you over provision or under provision, and you have to go through that painful process of changing your machine types. With flexible shapes, you don't have to do that.
 
