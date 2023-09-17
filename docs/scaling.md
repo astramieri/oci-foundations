@@ -27,4 +27,6 @@ There are three steps you have to follow to get Autoscaling:
 2. create an **instance pool**: a collection of instance in advance
 3. create the **autoscaling rules**: minimum size, maximum size, etc.
 
+Autoscaling in an instance pool within the OCI Compute service automatically provisions and removes instances based on specific conditions or schedules. It does not change the shape of the compute instance, nor is it limited to only metric-based or schedule-based autoscaling. Instead, autoscaling can be driven by both **metric-based** and **schedule-based** policies, offering a more dynamic and flexible scaling solution.
+
 ![Autoscaling Rules](../images/autoscaling_rules.png)
