@@ -1,4 +1,4 @@
-# Oracle Compute
+# Compute Introduction
 
 OCI Compute service provides you:
 - virtual machines
