@@ -69,8 +69,9 @@ It's very important because you're storing sensitive data in the Cloud. So we gi
 
 Object storage is a public service, you access them using a public **API endpoint**.
 
-    https://<region>.oraclecloud.com/n/<namespace>/b/<bucket>/o/log.zip
+    https://<region>.oraclecloud.com/p/<token>/n/<namespace>/b/<bucket>/o/log.zip
 
+    /p = pre-authenticated request (optional)
     /n = namespace
     /b = bucket
     /o = object  
