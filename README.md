@@ -35,3 +35,4 @@ Compute
 Storage
 
 - [Storage Introduction](/docs/storage_introduction.md)
+- [Object Storage](/docs/object_storage.md)
