@@ -10,6 +10,8 @@ Block Volume Tiers:
 
 In case of block volume, there is something which is called block volume performance unit. And basically, this includes the concept of **Volume Performance Units (VPUs)**. You can purchase more VPUs to allocate more resources to a volume increasing your IOPS per gig and through output per gig.
 
+The OCI Block Volume service uses replication to ensure data durability and protection against hardware failures. Data is automatically replicated across multiple storage devices within the same availability domain, which helps maintain data integrity and availability in case of hardware issues.
+
 ## Auto-Tune Performance
 
 Auto-Tune Performance helps you save on the costs. It changes the volume performance to lower cost when the volume is detached. When the volume is reattached, the volume performance is automatically adjusted to the previous setting.

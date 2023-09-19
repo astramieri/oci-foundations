@@ -25,8 +25,6 @@ There's also something called **namespace**. Namespace is a logical entity. It's
 
 ![Object Storage](../images/object_storage.png)
 
-
-
 ## Object Storage Tiers
 
 1. **Standard Tier** (also called *Hot Tier*)
@@ -64,6 +62,10 @@ You can also do versioning because as you are storing your data, you can have mu
 ## Data Encryption
 
 It's very important because you're storing sensitive data in the Cloud. So we give you data encryption **by default**. You cannot turn this off. You can always bring your own keys for very stringent requirements. You have that option.
+
+## Pre-Authenticated Request URL
+
+A pre-authenticated request URL is a feature in the OCI Object Storage service that provides temporary and secure access to a specific object. It enables users to generate a unique URL with a predefined expiration time, allowing external users to access the object without requiring authentication or authorization through OCI Identity and Access Management.
 
 ## Access Data
 
