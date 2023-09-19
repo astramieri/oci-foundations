@@ -8,6 +8,8 @@ Block Volume Tiers:
 3. **Higher Performance**: most I/O-demanding workloads
 4. **Ultra High Performance**: highest I/O-demanding workloads (relational databases)
 
+In case of block volume, there is something which is called block volume performance unit. And basically, this includes the concept of **Volume Performance Units (VPUs)**. You can purchase more VPUs to allocate more resources to a volume increasing your IOPS per gig and through output per gig.
+
 ## Auto-Tune Performance
 
 Auto-Tune Performance helps you save on the costs. It changes the volume performance to lower cost when the volume is detached. When the volume is reattached, the volume performance is automatically adjusted to the previous setting.
