@@ -42,4 +42,5 @@ Storage
 Database
 
 - [Database Introduction](/docs/database_introduction.md)
-- [Database Introduction](/docs/autonomous_database.md)
+- [Autonomous Database](/docs/autonomous_database.md)
+- [Oracle MySQL](/docs/oracle_mysql.md)

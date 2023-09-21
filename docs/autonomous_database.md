@@ -9,3 +9,9 @@ Autonomous Database supports two database/workload types:
 2. **Autonomous Data Warehouse (ADW)**: this is for online analytical processing. 
 
 ![Autonomous Database](../images/autonomous_database.png)
+
+But there are two other workload types:
+1. **Autonomous JSON Database**: it is an ATP but designed for developing NoSQL-style applications that use the JSON documents
+2. **APEX Service**: it is geared towards developers who are building low code APEX applications
+
+![optimized_by_workload](../images/optimized_by_workload.png)
