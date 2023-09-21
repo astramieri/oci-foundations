@@ -38,3 +38,7 @@ Storage
 - [Object Storage](/docs/object_storage.md)
 - [Block Volume](/docs/block_volume.md)
 - [File Storage](/docs/files_storage.md)
+
+Database
+
+- [Database Introduction](/docs/database_introduction.md)
