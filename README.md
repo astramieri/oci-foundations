@@ -49,3 +49,4 @@ Database
 Security
 
 - [Security Introduction](/docs/security_introduction.md)
+- [Cloud Guard](/docs/cloud_guard.md)
