@@ -6,9 +6,17 @@ Security Advisor refers to a cloud service that unifies Security Zone, Cloud Gua
 
 ## Security Zones
 
-In terms of functional usage, Security Zones and a Security Zone Recipe can be classified as **Preventative Counter Measures**.
+In terms of functional usage, **Security Zones** and a **Security Zone Recipe** can be classified as **Preventative Counter Measures**.
 
 ![Security Zones](../images/security_zones.png)
+
+When you create a Security Zone, you select one or more compartments and a recipe. A Security Zone Recipe specifies which policies you want to enforce. Oracle provides a default set of policies, but you can create your own policies.
+
+Any attempt to create or modify resources in the security zone that violates one of the zone's policies is denied. Security Zone uses Cloud Guard, as you can see in the diagram here, to routinely scan your zones and report any zone policy violation. 
+
+NOTE: you must enable Cloud Guard before you can use Security Zones. 
+
+![Security Zone Example](../images/security_zone_example.png)
 
 ## Security Advisor
 
