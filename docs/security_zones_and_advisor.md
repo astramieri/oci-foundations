@@ -16,6 +16,8 @@ Any attempt to create or modify resources in the security zone that violates one
 
 NOTE: you must enable Cloud Guard before you can use Security Zones. 
 
+The main advantage of using OCI Security Zones when deploying resources in your cloud environment is to ensure adherence to security best practices and policies. Security Zones help maintain a strong security posture by automatically enforcing predefined security policies within designated compartments, preventing the creation of non-compliant resources.
+
 ![Security Zone Example](../images/security_zone_example.png)
 
 ## Security Advisor

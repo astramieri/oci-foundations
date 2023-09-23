@@ -2,6 +2,8 @@
 
 In an on-premises environment, you own the whole stack and you are responsible for security end-to-end. In a **shared security model** some of the responsibilities transfer to the Cloud provider.
 
+In the OCI shared security responsibility model, Oracle is responsible for securing the underlying cloud infrastructure. This includes securing the physical data centers, network infrastructure, and hardware that support the cloud services, ensuring a secure and reliable environment for customers to deploy their applications and store data.
+
 ![Shared Secuirty Model](../images/shared_security_model.png)
 
 ## Security Services

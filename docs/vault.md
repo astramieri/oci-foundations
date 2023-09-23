@@ -4,6 +4,10 @@ OCI Vault is a managed service that lets you centrally manage encryption keys an
 
 Secrets are credentials such as passwords, certificates, SSH-keys, or authentication tokens that you can use with Oracle Cloud Infrastructure services.
 
+The primary purpose of the OCI Vault service is to store and manage encryption keys and secrets. The Vault service helps you to securely store, manage, and control access to encryption keys, secrets, and certificates, ensuring the protection of sensitive data.
+
+OCI Vault is composed of various components including master encryption keys, secrets, and vaults. A vault in OCI is a logical entity where you can centrally manage and store your encryption keys and secrets. A secret is a resource that helps manage credentials needed to access OCI resources. A master encryption key is a key that OCI uses to encrypt the encryption keys that you create in the vault (these are customer managed). Database backup is not a component of OCI Vault; it is a functionality associated with the OCI Database service.
+
 ## Envelop Encryption
 
 The way the Vault operates is called **envelop encryption**. It is a two tiered hierarchy for keys:
