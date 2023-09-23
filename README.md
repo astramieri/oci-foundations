@@ -52,3 +52,4 @@ Security
 - [Cloud Guard](/docs/cloud_guard.md)
 - [Security Zones & Security Advisor](/docs/security_zones_and_advisor.md)
 - [Encryption Basics](/docs/encryption_basics.md)
+- [Vault](/docs/vault.md)
