@@ -4,6 +4,10 @@ Autonomous Database is a cloud database that uses machine learning to automate d
 
 So the idea is, as much as you can automate and let your users focus on differentiated higher level tasks, the better it is because they don't have to get involved with a lot of manual tasks and repetitive tasks. They don't have to do these because some of these tasks are also *error prone*. So using technologies like machine learning, we can take that out from the equation, let them focus on the value, additive, higher level differentiated tasks.
 
+The **self-driving feature** of Oracle Autonomous Database enables automatic database optimizations without manual intervention. It uses machine learning and automation to perform tasks such as provisioning, patching, tuning, and backup, which helps reduce the need for manual database administration and maintenance.
+
+The **self-repairing feature** of Oracle Autonomous Database ensures automatic database recovery in case of failures. It detects and corrects issues in the database infrastructure, including hardware, software, and human errors, helping to maintain high availability and protect against data loss.
+
 Autonomous Database supports two database/workload types:
 1. **Autonomous Transaction Processing (ATP)**: this is for your OLTP,  so think about transactions. 
 2. **Autonomous Data Warehouse (ADW)**: this is for online analytical processing. 
