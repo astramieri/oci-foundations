@@ -6,7 +6,7 @@ Security Advisor refers to a cloud service that unifies Security Zone, Cloud Gua
 
 ## Security Zones
 
-In terms of functional usage, **Security Zones** and a **Security Zone Recipe** can be classified as **Preventative Counter Measures**.
+In terms of functional usage, **Security Zones** and a **Security Zone Recipe** can be classified as **Preventive Counter Measures**.
 
 ![Security Zones](../images/security_zones.png)
 

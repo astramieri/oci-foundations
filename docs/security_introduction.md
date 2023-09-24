@@ -13,7 +13,7 @@ In the OCI shared security responsibility model, Oracle is responsible for secur
 Security is not just one service or an add-on. 
 
 Security is enforced at different layers of the stack:
-- instracture protection
+- infrastracture protection
 - identity and access management
 - OS and workload protection
 - data protection

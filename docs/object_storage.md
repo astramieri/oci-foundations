@@ -17,7 +17,7 @@ OCI Object Storage scenarios:
 
 ## How does it works ?
 
-Anything you store in object storage is referenced as **object**. Think about object as *key-value pairs* or *name-value pairs*, name being the name of the file your storing and the value being the actual value of the file. And then objects can also have **object metadata** snd you could define your own metadata there.
+Anything you store in object storage is referenced as **object**. Think about object as *key-value pairs* or *name-value pairs*, name being the name of the file your storing and the value being the actual value of the file. And then objects can also have **object metadata** and you could define your own metadata there.
 
 Objects are stored in a **bucket** and the buckets have your unique name within the tenancy. Important thing to keep in mind is there is a *flat hierarchy*. And anytime you see a folder structure, that's simulated by the object storage service by using something called *prefixes*.
 
@@ -49,7 +49,7 @@ There's also something called **namespace**. Namespace is a logical entity. It's
 
 ## Auto-Tiering
 
-There is a feature called **auto-tiering** that looks at your access pattern and can move the data from standard tier to infrequent access tier and vise versa. 
+There is a feature called **auto-tiering** that looks at your access pattern and can move the data from standard tier to infrequent access tier and vice-versa. 
 
 ## Lifecycle Management
 

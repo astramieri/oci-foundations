@@ -31,8 +31,8 @@ The syntax is:
 
 where:
 
-- *realm* is basically set of regions that share the same characteristics (e.g. commercial, government, etc.)
 - *resource_type* is kind of the type of the resource (e.g. compute instance, block storage, etc.)
+- *realm* is basically set of regions that share the same characteristics (e.g. commercial, government, etc.)
 - *region* is the region code
 - *unique_id* is the unique identifier of the resource
 

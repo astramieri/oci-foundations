@@ -1,6 +1,6 @@
 # VCN Routing
 
-VCN uses **Route Tables** to send traffic out of the VCN to the internet, to on-premises networks, or to peered VCN, and we look at each of these scenarios.
+VCN uses **Route Tables** to send traffic out of the VCN to the internet, to on-premises networks, or to peered VCN.
 
 Route tables consist of a set of route rules. Each rule specifies a destination CIDR block and a route target (the next hop for the traffic that matches that destination CIDR block).
 
