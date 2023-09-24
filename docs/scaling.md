@@ -23,7 +23,7 @@ Horizontal Scaling means that you add more VMs of the same shape, or you take a 
 Why is this so popular and powerful? The reason it is so powerful is, it gives you that scaling capability, but it also gives you that **high availability** And a thing which makes it really powerful is, you can match traffic demand by adding to removing VMs **automatically**. There is no extra cost for using Autoscaling.
 
 There are three steps you have to follow to get Autoscaling:
-1. create a **template** (config): OS image, matadata, shapes, cNICs, etc.
+1. create a **template** (configuration): OS image, matadata, shapes, cNICs, etc.
 2. create an **instance pool**: a collection of instance in advance
 3. create the **autoscaling rules**: minimum size, maximum size, etc.
 

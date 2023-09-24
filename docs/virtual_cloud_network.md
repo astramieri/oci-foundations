@@ -17,7 +17,7 @@ What different mechanisms exist inside a VCN ?
 1. **Internet Gateway**: two-way communication between a VCN and the internet.
 2. **NAT Gateway**: one-way communication from a VCN to the internet.
 3. **Service Gateway**: access from a VCN to public Oracle services.
-4. **Dynamic Router Gateway**: access from a VCN to destinations others than the internet.
+4. **Dynamic Router Gateway (DRG)**: access from a VCN to destinations others than the internet (e.g. on-premises networks).
 
 ![Communication Internet](../images/vcn_internet.png)
 

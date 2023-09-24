@@ -4,6 +4,8 @@ An instance is a compute host and it has several dependencies.
 
 Block storage is the type of storage associated with instances in the OCI Compute service. It provides low-latency, high-performance storage volumes that can be attached to instances to store data and applications.
 
+The **Instance configuration** is a predefined configuration that includes the instance's shape, base image, and metadata. It allows users to quickly create new instances with the same configuration, streamlining the deployment process.
+
 ![Instance Basics](../images/instance_basics.png)
 
 ## Live Migrate

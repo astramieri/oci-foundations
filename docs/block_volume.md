@@ -8,6 +8,8 @@ Block Volume Tiers:
 3. **Higher Performance**: most I/O-demanding workloads
 4. **Ultra High Performance**: highest I/O-demanding workloads (relational databases)
 
+![Block Volume Performance Levels](../images/block_volume_tiers.png)
+
 In case of block volume, there is something which is called block volume performance unit. And basically, this includes the concept of **Volume Performance Units (VPUs)**. You can purchase more VPUs to allocate more resources to a volume increasing your IOPS per gig and through output per gig.
 
 The OCI Block Volume service uses replication to ensure data durability and protection against hardware failures. Data is automatically replicated across multiple storage devices within the same availability domain, which helps maintain data integrity and availability in case of hardware issues.

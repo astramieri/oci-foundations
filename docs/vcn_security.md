@@ -10,4 +10,6 @@ A **Network Security Groups** (NSG) is a very similar construct as Security List
 
 *Network Security Group = A set of firewall rules that apply to any set of resources in a VCN that you specify.*
 
+NSG is basically designed to control traffic between specific resources. It provides a more granular level of control compared to Security List, enabling users to apply security rules to individual resources such as instances or load balancer.
+
 ![Network Security Group](../images/network_security_group.png)
