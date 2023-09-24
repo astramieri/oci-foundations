@@ -36,4 +36,6 @@ With OCI you don't really pay for any data transfer happening between Availabili
 
 Incoming traffic is **free**, but outgoing traffic is **10 times lower** than some of the other Cloud providers. 
 
+In OCI, ingress data transfer (data coming into OCI from the internet) is typically free. However, egress data transfer (data going out from OCI to the internet) is chargeable after the first 10 TB/month, depending on the specific region and destination.
+
 ![Data Trasnfer Costs](../images/data_transfer_costs.png)
