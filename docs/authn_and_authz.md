@@ -27,6 +27,15 @@ E.g.
 
     Allow group <group_name> to <verb> <resource_type> in <location> [where <conditions>]
 
+## IAM Policy Statement
+
+An IAM policy statement in Oracle Cloud Infrastructure typically consists of these components: 
+1. Location (compartment or tenancy)
+2. Action Verb (the specific action to be allowed)
+3. Resource (the resources the action can be performed on)
+4. Principal (group the policy applies to)
+5. Conditions (optional)
+
 ### Policies Verbs
 
 ![Policies Verbs](../images/policies_verbs.png)

@@ -8,6 +8,8 @@ The **self-driving feature** of Oracle Autonomous Database enables automatic dat
 
 The **self-repairing feature** of Oracle Autonomous Database ensures automatic database recovery in case of failures. It detects and corrects issues in the database infrastructure, including hardware, software, and human errors, helping to maintain high availability and protect against data loss.
 
+The **self-securing feature** of Oracle Cloud Infrastructure Autonomous Database provides automatic application of security patches and protection from threats. It ensures that the database is always up-to-date with the latest security updates, helping to safeguard your data and maintain a strong security posture.
+
 Autonomous Database supports two database/workload types:
 1. **Autonomous Transaction Processing (ATP)**: this is for your OLTP,  so think about transactions. 
 2. **Autonomous Data Warehouse (ADW)**: this is for online analytical processing. 

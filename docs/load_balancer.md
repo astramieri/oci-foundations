@@ -2,6 +2,13 @@
 
 A **Load Balancer** allows you to achieve *high availability* and *high scalability*. They are also referred to as **Reverse Proxies**.
 
+Oracle Cloud Infrastructure Load Balancer supports three types of load balancing algorithms: 
+1. Round Robin
+2. Least Connections
+3. IP Hash
+
+NOTE: Weighted Round Robin, Weighted Least Connections, and Random are not supported by OCI Load Balancer.
+
 ## HTTP/S (Layer 7) Load Balancer 
 
 The first type of Load Balancer in OCI is a **HTTP/S (Layer 7) Load Balancer**. Layer 7 basically means it understands HTTP and HTTPS. That's the OSI model.

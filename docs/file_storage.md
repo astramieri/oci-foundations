@@ -2,6 +2,8 @@
 
 File storage is hierarchical collection of documents organized into name directories.
 
+The OCI File Storage service uses the Network File System (NFS) protocol for file access. NFS allows clients to access files over a network in a manner that appears as though they are part of the local file system.
+
 The two most common distributed file systems are:
 - network file system (NFS) for Linux
 - server messaging block (SMB) for Windows

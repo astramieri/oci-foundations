@@ -1,6 +1,6 @@
 # Block Volume
 
-Block Volume service provides persistent and durable storage to compute instances. The data is stored independently of the instance lifecycle Durable means we make multiple copies. So even if we lose one copy, we have other copies of the data available in the data center. 
+Block Volume service provides persistent and durable storage to compute instances. The data is stored independently of the instance lifecycle. Durable means we make multiple copies. So even if we lose one copy, we have other copies of the data available in the data center. 
 
 Block Volume Tiers:
 1. **Lower Cost**: large sequential I/O workloads (streaming data warehousing)
@@ -13,6 +13,8 @@ Block Volume Tiers:
 In case of block volume, there is something which is called block volume performance unit. And basically, this includes the concept of **Volume Performance Units (VPUs)**. You can purchase more VPUs to allocate more resources to a volume increasing your IOPS per gig and through output per gig.
 
 The OCI Block Volume service uses replication to ensure data durability and protection against hardware failures. Data is automatically replicated across multiple storage devices within the same availability domain, which helps maintain data integrity and availability in case of hardware issues.
+
+OCI Block Volumes are automatically replicated within an availability domain for high durability, ensuring data redundancy and protection against hardware failures.
 
 ## Auto-Tune Performance
 
