@@ -19,3 +19,5 @@ MySQL Database Service with HeatWave is the only service available in the market
 MySQL HeatWave uses an **in-memory data storage** mechanism to provide high-performance query execution. It achieves this by storing the data in a columnar format in-memory, which allows for faster access and processing of data during query execution, especially for OLAP workloads.
 
 MySQL HeatWave is an integrated query accelerator for the MySQL Database service in Oracle Cloud Infrastructure. It significantly boosts the performance of MySQL, enabling it to efficiently run OLAP (Online Analytical Processing) queries, which are complex queries that analyze large amounts of data to uncover business insights.
+
+![MySQL HeatWave](../images/heatwave.png)
