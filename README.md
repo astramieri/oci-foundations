@@ -53,3 +53,7 @@ Security
 - [Security Zones & Security Advisor](/docs/security_zones_and_advisor.md)
 - [Encryption Basics](/docs/encryption_basics.md)
 - [Vault](/docs/vault.md)
+
+Governance and Administration
+
+- [Pricing](/docs/pricing.md)
