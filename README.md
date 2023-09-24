@@ -60,3 +60,4 @@ Governance and Administration
 - [Cost Management](/docs/cost_management.md)
 - [Cloud Advisor](/docs/cloud_advisor.md)
 - [Tagging](/docs/tagging.md)
+- [Support Rewards](/docs/support_rewards.md)
