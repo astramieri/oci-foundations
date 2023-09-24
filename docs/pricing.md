@@ -35,3 +35,5 @@ Factors that impacts pricing:
 With OCI you don't really pay for any data transfer happening between Availability Domains. 
 
 Incoming traffic is **free**, but outgoing traffic is **10 times lower** than some of the other Cloud providers. 
+
+![Data Trasnfer Costs](../images/data_transfer_costs.png)

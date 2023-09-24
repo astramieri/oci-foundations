@@ -57,3 +57,4 @@ Security
 Governance and Administration
 
 - [Pricing](/docs/pricing.md)
+- [Cost Management](/docs/cost_management.md)
